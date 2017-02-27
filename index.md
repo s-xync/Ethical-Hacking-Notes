@@ -1,3 +1,5 @@
 1. [Proxy Chains](ProxyChains.md)  
 2. [Tor and Tor Browser](TorAndTorBrowser.md)  
 3. [VPN](VPN.md)
+4. [Mac Changer](MacChanger.md)
+5. [Foot Printing](FootPrinting.md)
